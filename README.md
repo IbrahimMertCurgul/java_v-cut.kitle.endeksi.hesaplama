@@ -2,4 +2,4 @@
 
 Yemek foksiyonu ise insan objelerin kilo değişkenlerini değiştirerek test etmek için eklenmiştir.
 
-Hesaplama formülü gerçek verilere dayanmaktadır.
+Hesaplama formülü gerçekte kullanılan formüle dayanmaktadır.
