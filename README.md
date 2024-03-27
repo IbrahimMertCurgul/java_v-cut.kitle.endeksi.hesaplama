@@ -5,15 +5,16 @@
 
 **The calculation formula is based on the formula that is being actually used irl.**
 
+<br><br>
 
 TR:
-İnsan objelerinin boy ve kilo değerleri ile vücut kitle endekslerini hesaplayan bir hesap makinesi. Ayrıca kitle edneksinin sağlıklı veya sağlıksız olduğu da belirlenmektedir.
+İnsan objelerinin boy ve kilo değerleri ile vücut kitle endekslerini hesaplayan bir hesap makinesi. Ayrıca kitle endeksinin sağlıklı veya sağlıksız olduğu da belirlenmektedir.
 
 Yemek foksiyonu ise insan objelerin kilo değişkenlerini değiştirerek test etmek için eklenmiştir.
 
 Hesaplama formülü gerçekte kullanılan formüle dayanmaktadır.\
 
-
+<br><br><br>
 
 ![](screenshots/ss1.png)\
 ![](screenshots/ss2.png)
