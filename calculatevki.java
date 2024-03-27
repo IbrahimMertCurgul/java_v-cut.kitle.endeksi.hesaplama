@@ -50,6 +50,9 @@ public class calculatevki {
 
       Yiyecek doner = new Yiyecek();
       doner.besin = 250;
+
+      Yiyecek hamburger = new Yiyecek();
+      doner.besin = 350;
       
       Yiyecek corba = new Yiyecek();
       corba.besin = 50;
@@ -59,6 +62,8 @@ public class calculatevki {
       veli.endeksHesapla();
 
       ali.yemek(doner.besin);
+      ali.yemek(hamburger.besin);
+      ali.yemek(corba.besin);
       veli.yemek(corba.besin);
       
       System.out.println("\nYemekten Sonra:");
