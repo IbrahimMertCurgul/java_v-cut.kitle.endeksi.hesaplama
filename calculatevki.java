@@ -5,7 +5,6 @@ public class calculatevki {
       public String isim;
       public int kilo;
       public double boy;
-      public int yas;
 
       public Insan() {
           isim = "";
