@@ -11,7 +11,6 @@ public class calculatevki {
           isim = "";
           kilo = 0;
           boy = 0.0;
-          yas = 0;
       }
 
       void yemek(int mik){
@@ -44,13 +43,11 @@ public class calculatevki {
       ali.isim = "Ali";
       ali.boy = 1.80;
       ali.kilo = 75;
-      ali.yas = 23;
       
       Insan veli = new Insan();
       veli.isim = "Veli";
       veli.boy = 1.85;
       veli.kilo = 90;
-      veli.yas = 23;
 
       Yiyecek doner = new Yiyecek();
       doner.besin = 250;
