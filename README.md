@@ -11,3 +11,6 @@ TR:
 Yemek foksiyonu ise insan objelerin kilo değişkenlerini değiştirerek test etmek için eklenmiştir.
 
 Hesaplama formülü gerçekte kullanılan formüle dayanmaktadır.
+
+![](screenshots/ss1.png)
+![](screenshots/ss2.png)
