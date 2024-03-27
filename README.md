@@ -17,4 +17,5 @@ Hesaplama formülü gerçekte kullanılan formüle dayanmaktadır.\
 <br><br><br>
 
 ![](screenshots/ss1.png)\
+<br>
 ![](screenshots/ss2.png)
